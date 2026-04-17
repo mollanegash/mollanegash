@@ -6,6 +6,8 @@ I design and build scalable, production-grade systems using Java, Spring Boot, A
 
 I focus on building backend systems that reflect real-world production architecture patterns used in enterprise and cloud environments.
 
+Designed as production-grade backend system demonstrating distributed system patterns used in enterprise environments.
+
 ---
 
 ## 💡 Core Expertise
