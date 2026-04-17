@@ -2,7 +2,7 @@
 
 Software Engineer specializing in backend systems, distributed architectures, and enterprise application design.
 
-I build scalable, production-ready systems using Java, Spring Boot, AWS, and modern software architecture principles. My focus is on system design, performance, and translating business requirements into reliable technical solutions.
+I design and build scalable, production-grade systems using Java, Spring Boot, AWS, and modern system design principles. My focus is on translating complex business requirements into reliable, secure, and high-performance technical solutions.
 
 ---
 
@@ -19,31 +19,31 @@ I build scalable, production-ready systems using Java, Spring Boot, AWS, and mod
 
 ## 🏗️ Focus Areas
 
-- Designing scalable backend systems
-- Building cloud-native applications
-- Implementing secure and maintainable APIs
-- Applying system design principles in real-world projects
-- Developing enterprise-style architectures
+- Designing scalable and resilient backend systems
+- Building cloud-native and microservices-based applications
+- Designing secure and maintainable APIs
+- Applying system design principles in real-world architectures
+- Developing enterprise-level backend solutions
 
 ---
 
 ## 🚀 Featured Projects
 
 - Order Tracking System (Spring Boot + React + System Design)
-- Enterprise Regulations Analyzer (Data-driven backend architecture)
-- Financial Transaction System (Async processing, microservices design)
-- Employee Management API (RESTful backend system)
+- Enterprise Regulations Analyzer (Data processing & backend architecture)
+- Financial Transaction System (Async processing & distributed design)
+- Employee Management API (RESTful microservice architecture)
 
 ---
 
 ## 🧠 Engineering Philosophy
 
 I focus on building systems that are:
-- Scalable
-- Maintainable
-- Secure
-- Aligned with business requirements
-- Designed with clean architecture principles
+- Scalable and resilient under load
+- Secure by design
+- Maintainable and modular
+- Aligned with business and enterprise requirements
+- Built using clean architecture and system design principles
 
 ---
 
