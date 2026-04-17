@@ -4,6 +4,8 @@ Software Engineer specializing in backend systems, distributed architectures, an
 
 I design and build scalable, production-grade systems using Java, Spring Boot, AWS, and modern system design principles. My focus is on translating complex business requirements into reliable, secure, and high-performance technical solutions.
 
+I focus on building backend systems that reflect real-world production architecture patterns used in enterprise and cloud environments.
+
 ---
 
 ## 💡 Core Expertise
