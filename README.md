@@ -1,6 +1,6 @@
 # Molla Negash
 
-Senior Backend Engineer / Technical Lead specializing in scalable distributed systems, microservices architecture, and cloud-native backend development using Java and Spring Boot.
+Senior Backend Engineer / Technical Lead specializing in scalable distributed systems, microservices architecture, and cloud-native systems using Java and Spring Boot.
 
 ---
 
@@ -28,7 +28,7 @@ My experience spans distributed system architecture, backend modernization, and 
 - Designing scalable, production-ready backend systems
 - Building cloud-native microservices architectures
 - Engineering high-performance and resilient systems
-- Modernizing legacy monolithic systems into distributed architectures
+- Modernizing legacy systems into distributed architectures
 - Designing secure, maintainable, and extensible APIs
 
 ---
@@ -57,3 +57,7 @@ My experience spans distributed system architecture, backend modernization, and 
 - GitHub: https://github.com/mollanegash  
 - LinkedIn: https://linkedin.com/in/mollanegash  
 - Email: mdraya3@gmail.com  
+
+---
+
+🎓 M.S. Computer Science – Boston University
