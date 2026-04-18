@@ -6,9 +6,9 @@ Senior Backend Engineer / Technical Lead specializing in scalable distributed sy
 
 ## 👨‍💻 About Me
 
-I design and build production-grade backend systems focused on scalability, performance, and reliability.
+I design and deliver production-grade backend systems focused on scalability, reliability, and performance in real-world enterprise environments.
 
-My experience spans enterprise system modernization, distributed architecture design, and cloud-native application development across FinTech, Insurance, Government, and enterprise domains.
+My experience spans distributed system architecture, backend modernization, and cloud-native application development across FinTech, Insurance, Government, and enterprise platforms.
 
 ---
 
@@ -18,37 +18,37 @@ My experience spans enterprise system modernization, distributed architecture de
 - Microservices & Distributed Systems Architecture
 - RESTful API Design & System Integration
 - Cloud Computing (AWS, GCP)
-- System Design & Performance Optimization
+- System Design & Performance Engineering
 - Database Design & Data Modeling
 
 ---
 
 ## 🏗️ Focus Areas
 
-- Designing scalable backend systems for production workloads
+- Designing scalable, production-ready backend systems
 - Building cloud-native microservices architectures
-- Improving system performance and reliability
-- Modernizing legacy systems into distributed architectures
-- Engineering secure and maintainable APIs
+- Engineering high-performance and resilient systems
+- Modernizing legacy monolithic systems into distributed architectures
+- Designing secure, maintainable, and extensible APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-- Federal Regulatory Insights Engine (Spring Boot + NLP + Distributed Processing)
-- Money Transfer System (Secure transaction processing + async workflows)
-- Enterprise Microservices Systems (FinTech & Insurance domains)
-- Data Processing & ETL Pipelines (Cloud-native architectures)
+- Federal Regulatory Insights Engine — Spring Boot, NLP, Distributed Processing  
+- Money Transfer System — Secure transactions with asynchronous workflows  
+- Enterprise Microservices Systems — FinTech & Insurance domain architectures  
+- Data Processing & ETL Pipelines — Cloud-native scalable data systems  
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-- Scalable and resilient system design
-- Clean architecture and modular design principles
-- Production-ready engineering standards
-- Security-first backend development
-- High-performance distributed systems
+- Design for scalability and fault tolerance
+- Clean, modular, and maintainable architecture
+- Production-first engineering mindset
+- Security and reliability by default
+- Performance-aware distributed system design
 
 ---
 
