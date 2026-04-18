@@ -1,57 +1,59 @@
 # Molla Negash
 
-Software Engineer specializing in backend systems, distributed architectures, and enterprise application design.
+Senior Backend Engineer / Technical Lead specializing in scalable distributed systems, microservices architecture, and cloud-native backend development using Java and Spring Boot.
 
-I design and build scalable, production-grade systems using Java, Spring Boot, AWS, and modern system design principles. My focus is on translating complex business requirements into reliable, secure, and high-performance technical solutions.
+---
 
-I focus on building backend systems that reflect real-world production architecture patterns used in enterprise and cloud environments.
+## 👨‍💻 About Me
 
-Designed as production-grade backend system demonstrating distributed system patterns used in enterprise environments.
+I design and build production-grade backend systems focused on scalability, performance, and reliability.
+
+My experience spans enterprise system modernization, distributed architecture design, and cloud-native application development across FinTech, Insurance, Government, and enterprise domains.
 
 ---
 
 ## 💡 Core Expertise
 
 - Backend Development (Java, Spring Boot)
-- RESTful API Design & Microservices Architecture
-- Distributed Systems & Scalable Backend Design
-- Cloud Computing (AWS)
+- Microservices & Distributed Systems Architecture
+- RESTful API Design & System Integration
+- Cloud Computing (AWS, GCP)
+- System Design & Performance Optimization
 - Database Design & Data Modeling
-- System Design & Enterprise Architecture Principles
 
 ---
 
 ## 🏗️ Focus Areas
 
-- Designing scalable and resilient backend systems
-- Building cloud-native and microservices-based applications
-- Designing secure and maintainable APIs
-- Applying system design principles in real-world architectures
-- Developing enterprise-level backend solutions
+- Designing scalable backend systems for production workloads
+- Building cloud-native microservices architectures
+- Improving system performance and reliability
+- Modernizing legacy systems into distributed architectures
+- Engineering secure and maintainable APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-- Order Tracking System (Spring Boot + React + System Design)
-- Enterprise Regulations Analyzer (Data processing & backend architecture)
-- Financial Transaction System (Async processing & distributed design)
-- Employee Management API (RESTful microservice architecture)
+- Federal Regulatory Insights Engine (Spring Boot + NLP + Distributed Processing)
+- Money Transfer System (Secure transaction processing + async workflows)
+- Enterprise Microservices Systems (FinTech & Insurance domains)
+- Data Processing & ETL Pipelines (Cloud-native architectures)
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-I focus on building systems that are:
-- Scalable and resilient under load
-- Secure by design
-- Maintainable and modular
-- Aligned with business and enterprise requirements
-- Built using clean architecture and system design principles
+- Scalable and resilient system design
+- Clean architecture and modular design principles
+- Production-ready engineering standards
+- Security-first backend development
+- High-performance distributed systems
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mollanegash
-- LinkedIn: https://www.linkedin.com/in/mollanegash
+- GitHub: https://github.com/mollanegash  
+- LinkedIn: https://linkedin.com/in/mollanegash  
+- Email: mdraya3@gmail.com  
