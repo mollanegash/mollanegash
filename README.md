@@ -1,4 +1,4 @@
-# Molla Negash
+# Molla D. Negash
 
 Senior Backend Engineer specializing in Distributed Systems, Cloud-Native Architectures, and Scalable Backend Platforms using Java and Spring Boot.
 
