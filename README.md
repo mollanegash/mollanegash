@@ -1,23 +1,25 @@
 # Molla Negash
 
-Senior Backend Engineer / Technical Lead specializing in scalable distributed systems, microservices architecture, and cloud-native systems using Java and Spring Boot.
+Senior Backend Engineer specializing in Distributed Systems, Cloud-Native Architectures, and Scalable Backend Platforms using Java and Spring Boot.
 
 ---
 
 ## 👨‍💻 About Me
 
-I design and deliver production-grade backend systems focused on scalability, reliability, and performance in real-world enterprise environments.
+I design and build production-grade backend systems focused on scalability, reliability, and performance in real-world enterprise environments.
 
-My experience spans distributed system architecture, backend modernization, and cloud-native application development across FinTech, Insurance, Government, and enterprise platforms.
+My work spans distributed system architecture, backend modernization, and cloud-native application development across FinTech, Government, and enterprise platforms.
+
+I focus on building systems that are modular, fault-tolerant, and designed for real-world scale.
 
 ---
 
 ## 💡 Core Expertise
 
 - Backend Development (Java, Spring Boot)
-- Microservices & Distributed Systems Architecture
+- Distributed Systems & Microservices Architecture
 - RESTful API Design & System Integration
-- Cloud Computing (AWS, GCP)
+- Cloud Platforms (AWS, GCP)
 - System Design & Performance Engineering
 - Database Design & Data Modeling
 
@@ -25,30 +27,30 @@ My experience spans distributed system architecture, backend modernization, and 
 
 ## 🏗️ Focus Areas
 
-- Designing scalable, production-ready backend systems
+- Designing scalable and production-ready backend systems
 - Building cloud-native microservices architectures
-- Engineering high-performance and resilient systems
-- Modernizing legacy systems into distributed architectures
+- Engineering high-performance, resilient distributed systems
+- Modernizing monolithic systems into distributed architectures
 - Designing secure, maintainable, and extensible APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-- Federal Regulatory Insights Engine — Spring Boot, NLP, Distributed Processing  
-- Money Transfer System — Secure transactions with asynchronous workflows  
-- Enterprise Microservices Systems — FinTech & Insurance domain architectures  
-- Data Processing & ETL Pipelines — Cloud-native scalable data systems  
+- Federal Regulatory Insights Engine — Spring Boot, Distributed Processing, System Design  
+- Order Tracking System — Full-Stack React + Spring Boot + PostgreSQL (Production Deployment)  
+- Cloud-Native Microservices Platform — Spring Boot, Docker, Terraform, Scalable Architecture  
+- Data Processing & ETL Pipelines — Cloud-native backend systems for large-scale data workflows  
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-- Design for scalability and fault tolerance
-- Clean, modular, and maintainable architecture
-- Production-first engineering mindset
-- Security and reliability by default
-- Performance-aware distributed system design
+- Design for scalability, resilience, and fault tolerance
+- Build clean, modular, and maintainable architectures
+- Prioritize production-readiness over prototypes
+- Treat security and reliability as defaults, not add-ons
+- Optimize systems for performance and real-world constraints
 
 ---
 
