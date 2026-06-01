@@ -1,6 +1,6 @@
 # Molla D. Negash | Senior Backend Engineer
 
-**Java 21 + Spring Boot + Redis | 5K rps p99 118ms**
+**Java 17/21/22 + Spring Boot + Redis | 5K rps p99 118ms**
 
 Proof: github.com/mollanegash/high-throughput-text-processor
 
