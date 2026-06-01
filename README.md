@@ -1,20 +1,10 @@
-# EconomiCS | Molla D. Negash
+# Molla D. Negash | Senior Backend Engineer
 
-Senior Backend & Distributed Systems Engineer specializing in Distributed Systems, Cloud-Native Architectures, and Scalable Backend Platforms using Java and Spring Boot.
+**Java 21 + Spring Boot + Redis | 5K rps p99 118ms**
 
----
+Proof: github.com/mollanegash/high-throughput-text-processor
 
-## 👨‍💻 About Me
-
-I combine systems thinking inspired by economics with computer science principles to design scalable and efficient backend systems.
-
-I design and build production-grade backend systems focused on scalability, reliability, and performance in real-world enterprise environments.
-
-My work spans distributed system architecture, backend modernization, and cloud-native application development across FinTech, Government, and enterprise platforms.
-
-I focus on building systems that are modular, fault-tolerant, and designed for real-world scale.
-
----
+BSc Economics + MSCS Computer Science → EconomiCS mindset: systems + incentives
 
 ## 💡 Core Expertise
 
