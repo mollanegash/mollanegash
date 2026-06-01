@@ -12,8 +12,8 @@ Java 21, Spring Boot 3, Postgres, Docker, Terraform
 Code: github.com/mollanegash/high-throughput-text-processor
 
 EduExcellence-School-Management-System 
-Redis @Cacheable: Student GET 85ms DB → 2ms Redis
-Java 21, Spring Boot 3, JPA, @Transactional(readOnly=true)
+Redis @Cacheable: Student GET 85ms DB → 2ms Redis 
+Java 17, Spring Boot 2.6.6, JPA, @Transactional(readOnly=true)
 Code: github.com/mollanegash/EduExcellence-School-Management-System
 
 ### 📫 Contact
