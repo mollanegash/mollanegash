@@ -14,7 +14,7 @@ BSc Economics + MSCS Computer Science → EconomiCS mindset: systems thinking + 
 1M+ documents processed | 5K RPS | p99 ~120ms | Render $7/mo
 
 Java 21, Spring Boot 3, PostgreSQL, Redis, Docker, Terraform  
-Code: github.com/mollanegash/high-throughput-text-processor
+Code: https://github.com/mollanegash/high-throughput-text-processor
 
 ---
 
@@ -30,11 +30,11 @@ Code: https://github.com/mollanegash/spring-redis-performance
 REST API + React frontend | Java 22 + Spring Boot 3.4.4 + PostgreSQL  
 Full CRUD application deployed on Render
 
-Code: github.com/mollanegash/ordertrackingsystem
+Code: https://github.com/mollanegash/ordertrackingsystem
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/mollanegash | Email: mdraya3@gmail.com  
+LinkedIn: https://linkedin.com/in/mollanegash | Email: mdraya3@gmail.com  
 Austin, TX | Remote
