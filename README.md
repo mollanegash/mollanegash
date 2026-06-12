@@ -18,7 +18,7 @@ Code: github.com/mollanegash/high-throughput-text-processor
 
 ---
 
-### EduExcellence School Management System
+### spring-redis-performance
 Redis caching optimization: 85ms → 2ms (DB → Redis)
 
 Java 17, Spring Boot 2.6.6, JPA, @Transactional(readOnly=true)  
