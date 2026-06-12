@@ -22,7 +22,7 @@ Code: github.com/mollanegash/high-throughput-text-processor
 Redis caching optimization: 85ms → 2ms (DB → Redis)
 
 Java 17, Spring Boot 2.6.6, JPA, @Transactional(readOnly=true)  
-Code: github.com/mollanegash/EduExcellence-School-Management-System
+Code: https://github.com/mollanegash/spring-redis-performance
 
 ---
 
