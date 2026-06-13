@@ -1,10 +1,10 @@
 # Molla D. Negash | Backend Engineer
 
-**Backend Engineer | Java Performance & Systems Optimization | PostgreSQL & Redis | 5K RPS, p99 ~120ms**
+**EconomiCS | I make backend systems go faster**
 
-Proof: github.com/mollanegash/high-throughput-text-processor
+Proof: https://github.com/mollanegash/high-throughput-text-processor
 
-BSc Economics + MSCS Computer Science → EconomiCS mindset: systems thinking + incentives
+BSc Economics + MSCS Computer Science → **EconomiCS: The Economics of Computing (systems as resource allocation problems)**
 
 ---
 
