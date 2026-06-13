@@ -1,6 +1,8 @@
 # Molla D. Negash | Backend Engineer
 
-**EconomiCS | I make backend systems go faster**
+**EconomiCS: The Economics of Computing.
+
+I view backend systems as resource-allocation problems and optimize them for latency, throughput, and cost.**
 
 Proof: https://github.com/mollanegash/high-throughput-text-processor
 
