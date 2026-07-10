@@ -1,4 +1,4 @@
-# Molla D. Negash | Backend Engineer
+# Molla Negash | Backend Engineer
 
 **EconomiCS: The Economics of Computing.
 
