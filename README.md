@@ -1,42 +1,127 @@
-# Molla Negash | Backend Engineer
+# Molla Negash | Java Backend Engineer
 
-**EconomiCS: The Economics of Computing.
+Building AI-enabled backend systems, distributed microservices, and cloud-native data platforms using **Java 21+, Spring Boot, Spring AI, Kafka, PostgreSQL, Redis, Apache Spark, and AWS**.
 
-I view backend systems as resource-allocation problems and optimize them for latency, throughput, and cost.**
+**Engineering Philosophy — EconomiCS**
 
-Proof: https://github.com/mollanegash/high-throughput-text-processor
+I view backend systems as resource-allocation problems, optimizing for **latency, throughput, scalability, and cost**.
 
-BSc Economics + MSCS Computer Science → **EconomiCS: The Economics of Computing (systems as resource allocation problems)**
+**B.Sc. Economics + M.S. Computer Science** → Applying economic thinking to backend architecture, distributed systems, and performance engineering.
 
 ---
 
 ## 🚀 Key Projects
 
-### High-Throughput Text Processing Engine
-1M+ documents processed | 5K RPS | p99 ~120ms | Render $7/mo
+### 🧠 LLM Regulatory Intelligence Engine
 
-Java 21, Spring Boot 3, PostgreSQL, Redis, Docker, Terraform  
-Code: https://github.com/mollanegash/high-throughput-text-processor
+AI-enabled backend platform for concurrent regulatory document processing using Spring AI and LLM-powered contextual analysis.
+
+**Highlights**
+
+* Java 21 + Spring Boot 3
+* Spring AI + OpenAI integration
+* Stateless architecture
+* PostgreSQL
+* High-concurrency document processing
+* REST APIs
+
+**Repository**
+https://github.com/mollanegash/llm-regulatory-intelligence-engine
 
 ---
 
-### spring-redis-performance
-Redis caching optimization: 85ms → 2ms (DB → Redis)
+### 🛡 Spring AI Threat Platform
 
-Java 17, Spring Boot 2.6.6, JPA, @Transactional(readOnly=true)  
-Code: https://github.com/mollanegash/spring-redis-performance
+Real-time threat detection platform integrating AI, event-driven architecture, and backend microservices.
+
+**Highlights**
+
+* Java 21
+* Spring Boot
+* Spring AI
+* Kafka
+* Docker
+* REST APIs
+
+**Repository**
+https://github.com/mollanegash/spring-ai-threat-platform
 
 ---
 
-### Order Tracking System
-REST API + React frontend | Java 22 + Spring Boot 3.4.4 + PostgreSQL  
-Full CRUD application deployed on Render
+### ⚡ Spring Redis Performance
 
-Code: https://github.com/mollanegash/ordertrackingsystem
+Spring Boot performance engineering example demonstrating Redis caching.
+
+**Highlights**
+
+* Redis caching optimization
+* API response improved from **85 ms → 2 ms**
+* Spring Cache (@Cacheable)
+* Java 17
+* Spring Data JPA
+
+**Repository**
+https://github.com/mollanegash/spring-redis-performance
+
+---
+
+### 📦 Order Tracking System
+
+Production-ready full-stack order management application.
+
+**Highlights**
+
+* Java 22
+* Spring Boot 3
+* PostgreSQL
+* React
+* REST APIs
+* CRUD operations
+* Deployed on Render
+
+**Repository**
+https://github.com/mollanegash/ordertrackingsystem
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+
+* Java 17–22
+* Spring Boot
+* Spring AI
+* REST APIs
+* Microservices
+* Distributed Systems
+
+**Data**
+
+* PostgreSQL
+* Redis
+* Apache Spark
+* Azure Databricks
+* Elasticsearch / OpenSearch
+
+**Messaging**
+
+* Kafka
+
+**Cloud & DevOps**
+
+* AWS
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* CI/CD
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com/in/mollanegash | Email: mdraya3@gmail.com  
-Austin, TX | Remote
+**LinkedIn:** https://linkedin.com/in/mollanegash
+
+**Email:** [mdraya3@gmail.com](mailto:mdraya3@gmail.com)
+
+**Location:** Austin, Texas
