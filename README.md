@@ -1,8 +1,8 @@
-# Molla Negash | Java Backend Engineer
+# Molla Negash | Backend Engineer | Java & Node.js | AI-Enabled Systems & Data Platforms | Spring AI & RAG | Spring Boot, Spark, Databricks
 
-Building AI-enabled backend systems, distributed microservices, and cloud-native data platforms using **Java 21+, Spring Boot, Spring AI, Kafka, PostgreSQL, Redis, Apache Spark, and AWS**.
+Building high-performance, AI-enabled backend systems and cloud-native data platforms using a polyglot approach—leveraging **Java 21+** for enterprise-scale transaction processing and **Node.js/TypeScript** for event-driven orchestration.
 
-**Engineering Philosophy — EconomiCS**
+### Engineering Philosophy — EconomiCS
 
 I view backend systems as resource-allocation problems, optimizing for **latency, throughput, scalability, and cost**.
 
@@ -16,17 +16,8 @@ I view backend systems as resource-allocation problems, optimizing for **latency
 
 AI-enabled backend platform for concurrent regulatory document processing using Spring AI and LLM-powered contextual analysis.
 
-**Highlights**
-
-* Java 21 + Spring Boot 3
-* Spring AI + OpenAI integration
-* Stateless architecture
-* PostgreSQL
-* High-concurrency document processing
-* REST APIs
-
-**Repository**
-https://github.com/mollanegash/llm-regulatory-intelligence-engine
+* **Highlights:** Java 21 + Spring Boot 3, Spring AI + OpenAI integration, High-concurrency document processing.
+* **Repository:** [llm-regulatory-intelligence-engine](https://github.com/mollanegash/llm-regulatory-intelligence-engine)
 
 ---
 
@@ -34,34 +25,17 @@ https://github.com/mollanegash/llm-regulatory-intelligence-engine
 
 Real-time threat detection platform integrating AI, event-driven architecture, and backend microservices.
 
-**Highlights**
-
-* Java 21
-* Spring Boot
-* Spring AI
-* Kafka
-* Docker
-* REST APIs
-
-**Repository**
-https://github.com/mollanegash/spring-ai-threat-platform
+* **Highlights:** Java 21 + Spring Boot + Spring AI, Kafka event-driven architecture.
+* **Repository:** [spring-ai-threat-platform](https://github.com/mollanegash/spring-ai-threat-platform)
 
 ---
 
 ### ⚡ Spring Redis Performance
 
-Spring Boot performance engineering example demonstrating Redis caching.
+Performance engineering example demonstrating Redis caching impact.
 
-**Highlights**
-
-* Redis caching optimization
-* API response improved from **85 ms → 2 ms**
-* Spring Cache (@Cacheable)
-* Java 17
-* Spring Data JPA
-
-**Repository**
-https://github.com/mollanegash/spring-redis-performance
+* **Highlights:** Redis caching optimization, API response improved from **85 ms → 2 ms**.
+* **Repository:** [spring-redis-performance](https://github.com/mollanegash/spring-redis-performance)
 
 ---
 
@@ -69,59 +43,22 @@ https://github.com/mollanegash/spring-redis-performance
 
 Production-ready full-stack order management application.
 
-**Highlights**
-
-* Java 22
-* Spring Boot 3
-* PostgreSQL
-* React
-* REST APIs
-* CRUD operations
-* Deployed on Render
-
-**Repository**
-https://github.com/mollanegash/ordertrackingsystem
+* **Highlights:** Java 22 + Spring Boot 3, React.js frontend, Deployed on Render.
+* **Repository:** [ordertrackingsystem](https://github.com/mollanegash/ordertrackingsystem)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend & AI**
 
-* Java 17–22
-* Spring Boot
-* Spring AI
-* REST APIs
-* Microservices
-* Distributed Systems
+* Java 17–22, Node.js, TypeScript, Spring Boot 3, Spring AI, Express.js, WebSocket
 
-**Data**
+**Data & Messaging**
 
-* PostgreSQL
-* Redis
-* Apache Spark
-* Azure Databricks
-* Elasticsearch / OpenSearch
-
-**Messaging**
-
-* Kafka
+* PostgreSQL, Redis, Apache Spark, Azure Databricks, Elasticsearch, Kafka
 
 **Cloud & DevOps**
 
-* AWS
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* CI/CD
+* AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD
 
----
-
-## 📫 Contact
-
-**LinkedIn:** https://linkedin.com/in/mollanegash
-
-**Email:** [mdraya3@gmail.com](mailto:mdraya3@gmail.com)
-
-**Location:** Austin, Texas
