@@ -1,4 +1,4 @@
-# Molla Negash | Backend Engineer | Java & Node.js | AI-Enabled Systems & Data Platforms | Spring AI & RAG | Spring Boot, Spark, Databricks
+# Molla Negash | Backend Engineer | Java | AI-Enabled Systems & Data Platforms | Spring AI & RAG | Spring Boot, Spark, Databricks
 
 Building high-performance, AI-enabled backend systems and cloud-native data platforms using a polyglot approach—leveraging **Java 21+** for enterprise-scale transaction processing and **Node.js/TypeScript** for event-driven orchestration.
 
