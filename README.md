@@ -1,4 +1,4 @@
-# Molla Negash | Senior Software Engineer | Technical Lead
+# Molla Negash | Software Engineer
 
 Building high-performance, AI-enabled backend systems and cloud-native platforms using Java, Spring Boot, Kafka, AWS, Kubernetes, and distributed-system architectures.
 
