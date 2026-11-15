@@ -1,63 +1,43 @@
-# Molla Negash | Software Engineer
+# Molla Negash
+**Patent Examiner | Systems & Enterprise Architect**
 
-Building high-performance, AI-enabled backend systems and cloud-native platforms using Java, Spring Boot, Kafka, AWS, Kubernetes, and distributed-system architectures.
-
-## Engineering Philosophy — EconomiCS
-
-I view backend systems as resource-allocation problems, optimizing for **latency, throughput, scalability, reliability, and cost**.
-
-**B.Sc. Economics + M.S. Computer Science** → Applying economic thinking to backend architecture, distributed systems, and performance engineering.
+Specializing in cloud-native, distributed backend systems using Java 21, Spring Boot, Apache Kafka, and Kubernetes. Combining rigorous academic grounding from **Boston University (MSCS, Security Concentration)** and **Mekelle University (B.S. in Economics & Management)** with enterprise-grade engineering experience across high-throughput telemetry pipelines, microservices modernization, and technical analysis.
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Flagship Systems & Architecture
 
-### 🧠 LLM Regulatory Intelligence Engine
+### 🤖 Azure RAG Platform — Production AI System
+Production Retrieval-Augmented Generation (RAG) platform using Azure OpenAI and Azure AI Search for secure document chat with citations, handling enterprise workloads with **sub-150ms inference**.
+- **Stack:** TypeScript, Fastify, Azure OpenAI, Azure AI Search, Bicep IaC, Azure Container Apps
+- **Repository:** [azure-rag-platform](https://github.com/mollanegash) *(update with exact repo URL if different)*
 
-AI-enabled backend platform for regulatory document processing using Spring AI and LLM-powered contextual analysis.
-
-- **Stack:** Java 21, Spring Boot 3, Spring AI, OpenAI, PostgreSQL, AWS, Docker, Terraform
-- **Focus:** High-throughput processing, RAG, semantic search, scalable backend architecture
-- **Repository:** [llm-regulatory-intelligence-engine](https://github.com/mollanegash/llm-regulatory-intelligence-engine)
-
-### 🛡 Spring AI Threat Platform
-
-Real-time threat detection platform combining AI, event-driven architecture, and backend microservices.
-
-- **Stack:** Java 21, Spring Boot, Spring AI, Apache Kafka
-- **Focus:** AI processing, event-driven architecture, distributed backend services
-- **Repository:** [spring-ai-threat-platform](https://github.com/mollanegash/spring-ai-threat-platform)
-
-### 🌐 Enterprise IoT Kafka Gateway
-
-Real-time IoT telemetry streaming platform built with Spring Boot, Apache Kafka, Docker, and Terraform.
-
-- **Stack:** Java 21, Spring Boot, Kafka, Docker, Terraform
-- **Focus:** Real-time telemetry, asynchronous processing, critical alerts, event-driven architecture
+### 🌐 Enterprise IoT Kafka Gateway — 10K+ RPS
+Real-time IoT telemetry gateway processing high-volume sensor streams via Kafka producers and consumers, detecting critical alerts at **10K+ RPS with 99.9% availability**.
+- **Stack:** Java 21, Spring Boot, Apache Kafka, Docker, Terraform
 - **Repository:** [enterprise-iot-kafka-gateway](https://github.com/mollanegash/enterprise-iot-kafka-gateway)
 
-### ⚡ Spring Redis Performance
+### 🛡 Spring AI Threat Detection Platform
+Event-driven backend microservice integrating production AI inference with distributed messaging for real-time threat detection and **sub-150ms threat scoring**.
+- **Stack:** Java 21, Spring Boot, Spring AI, Apache Kafka, Docker
+- **Repository:** [spring-ai-threat-platform](https://github.com/mollanegash/spring-ai-threat-platform)
 
-Backend performance engineering project demonstrating Redis caching optimization.
-
-- **Result:** API response improved from **85 ms → 2 ms**
-- **Focus:** Cache-Aside patterns, API performance, concurrency, observability
+### ⚡ Redis Performance Proof — 85 ms → 2 ms
+Cache-Aside optimization benchmark demonstrating JVM tuning and database latency reduction on high-concurrency GET endpoints (**85 ms DB → 2 ms Redis**).
+- **Stack:** Java 17, Spring Boot, Redis (`@Cacheable`), JPA, H2
 - **Repository:** [spring-redis-performance](https://github.com/mollanegash/spring-redis-performance)
-
-### 📦 Order Tracking System
-
-Full-stack order management application demonstrating production-oriented backend and frontend development.
-
-- **Stack:** Java 22, Spring Boot 3, React.js
-- **Deployment:** Render
-- **Repository:** [ordertrackingsystem](https://github.com/mollanegash/ordertrackingsystem)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
-**Backend & AI:** Java 17–22, Spring Boot 3, Spring AI, Node.js, TypeScript, Express.js, REST APIs, WebSocket
+- **Backend & AI:** Java (17–22), Spring Boot 3, Spring AI, TypeScript, Fastify, Node.js, REST APIs, WebSockets
+- **Data & Streaming:** Apache Kafka, PostgreSQL, Redis, Elasticsearch, Azure AI Search
+- **Cloud & Infrastructure:** Azure (Container Apps, Bicep IaC), AWS, GCP, Kubernetes, Docker, Terraform, CI/CD
 
-**Data & Messaging:** PostgreSQL, Redis, Apache Kafka, Elasticsearch, Apache Spark, Azure Databricks
+---
 
-**Cloud & DevOps:** AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD
+## 🎓 Education & Credentials
+
+- **M.S. in Computer Science (Security Concentration)** — Boston University
+- **B.S. in Economics & Management** — Mekelle University
