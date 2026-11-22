@@ -1,35 +1,35 @@
 # Molla Negash
-**Patent Examiner | Systems & Enterprise Architect**
+**Computer Science Patent Examiner | Systems & Enterprise Architecture**
 
-M.S. in Computer Science (Boston University) and B.S. in Economics & Management (Mekelle University). Background in distributed backend systems, event-driven telemetry pipelines, and cloud infrastructure using Java, Spring Boot, Apache Kafka, and Kubernetes.
+Background in **Computer Science & Economics**, focused on systems thinking, enterprise architecture, and data analysis. Evaluating complex software, distributed architectures, and data-intensive systems alongside reference work in systems architecture and data engineering pipelines for energy, environmental, and natural-resource information systems.
 
 ---
 
 ## Systems & Architecture
 
-### Azure RAG Platform
-Retrieval-Augmented Generation system built with TypeScript, Fastify, Azure OpenAI, Azure AI Search, Bicep, and Azure Container Apps for document search with citations (**sub-150ms inference**).
-- **Repository:** [azure-rag-platform](https://github.com/mollanegash)
-
 ### Enterprise IoT Kafka Gateway
-Telemetry ingestion and alerting pipeline built with Java 21, Spring Boot, Apache Kafka, Docker, and Terraform (**10K+ RPS, 99.9% availability**).
+Event-driven telemetry ingestion and alerting architecture designed for high-throughput sensor streams and real-time alert evaluation (**10K+ RPS, 99.9% availability**).
 - **Repository:** [enterprise-iot-kafka-gateway](https://github.com/mollanegash/enterprise-iot-kafka-gateway)
 
+### Azure RAG Platform
+Retrieval-Augmented Generation architecture combining vector search, grounded citations, and container orchestration for high-volume enterprise document retrieval (**sub-150ms inference**).
+- **Repository:** [azure-rag-platform](https://github.com/mollanegash/azure-rag-platform)
+
 ### Spring AI Threat Detection Platform
-Event-driven microservice built with Java 21, Spring Boot, Spring AI, Apache Kafka, and Docker for real-time threat scoring (**sub-150ms**).
+Event-driven security analytics architecture integrating real-time event streaming and AI-assisted scoring for low-latency anomaly and threat evaluation (**sub-150ms**).
 - **Repository:** [spring-ai-threat-platform](https://github.com/mollanegash/spring-ai-threat-platform)
 
-### Redis Performance Benchmark
-Cache-Aside latency benchmark using Java 17, Spring Boot, Redis (`@Cacheable`), JPA, and H2 (**85 ms DB → 2 ms Redis**).
+### Data Caching & Latency Optimization
+Cache-Aside architectural benchmark demonstrating read-path latency reduction and database load reduction (**85 ms DB → 2 ms Redis**).
 - **Repository:** [spring-redis-performance](https://github.com/mollanegash/spring-redis-performance)
 
 ---
 
-## Technologies
+## Computer Science & Systems Capabilities
 
-- **Languages & Frameworks:** Java (17–22), Spring Boot 3, Spring AI, TypeScript, Fastify, Node.js
-- **Data & Messaging:** Apache Kafka, PostgreSQL, Redis, Elasticsearch, Azure AI Search
-- **Cloud & Infrastructure:** Azure, AWS, GCP, Kubernetes, Docker, Terraform, CI/CD
+- **Systems & Enterprise Architecture:** Distributed Systems, Event-Driven Architecture, Microservices, API Design, Cloud Infrastructure (Azure, AWS, GCP)
+- **Data Pipelines, AI & Storage:** Data Engineering, Stream Processing (Apache Kafka), Retrieval-Augmented Generation (RAG), Relational & Search Data Layers (PostgreSQL, Redis, OpenSearch, Elasticsearch, Azure AI Search)
+- **Analytical & Technical Foundation:** Computer Science & Economics, Systems Thinking, Enterprise Architecture, Quantitative & Resource Data Analysis, Java & Spring Ecosystem, Containerization & IaC (Docker, Kubernetes, Terraform)
 
 ---
 
@@ -37,3 +37,10 @@ Cache-Aside latency benchmark using Java 17, Spring Boot, Redis (`@Cacheable`), 
 
 - **M.S. in Computer Science** — Boston University
 - **B.S. in Economics & Management** — Mekelle University
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/mollanegash](https://linkedin.com/in/mollanegash)
+- **GitHub:** [github.com/mollanegash](https://github.com/mollanegash)
